@@ -126,8 +126,10 @@
   },
   {
     "id": "20102370022",
-    "nomeSimples": "Amanda Silva",
+    "nomeSimples": "Amanda Alves",
     "nome": "Amanda Alves Almeida da Silva",
+    "email": "manda.alvs@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/amanda-alves-33913b102/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
